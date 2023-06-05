@@ -276,7 +276,7 @@ Comando para  [mueverte de rama ](#checkout)  a "origin/release" :
 `$ git checkout origin/release`
 
 VSC:
-[mueve a la rama ](/CambioRamaVSC.jpg)
+![mueve a la rama ](/CambioRamaVSC.jpg)
 
 ### **Actualizar Repositorio local**
 COMANDO:
@@ -285,7 +285,7 @@ COMANDO:
 `$ git pull`
 
 VSC:
-[Actualizar](/pushVSC.png)
+![Actualizar](/pushVSC.png)
 
 ### **CREAR RAMA**
 NOMENGRATURA:
