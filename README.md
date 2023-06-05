@@ -38,7 +38,7 @@ Esto nos creará una carpeta con el nombre del directorio (como haría un mkdir)
 
 Esta carpeta ya tendrá su sincronización con git y podremos empezar a trabajar con git sobre ella directamente.
 
-[Video Clonar Repo](ClonarComandVSC.mp4)
+![Video Clonar Repo](ClonarComandVSC.mp4)
 
 **Mediante Comando.**
 
